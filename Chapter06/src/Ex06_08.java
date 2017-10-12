@@ -3,7 +3,6 @@ public class Ex06_08 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// 1~10까지의 합
 
 		int hap = 0;
 		int i;

@@ -4,7 +4,7 @@ public class Ex06_12 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// ±¸±¸´Ü for
+
 		Scanner s = new Scanner(System.in);
 		int i;
 		int dan;
