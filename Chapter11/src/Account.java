@@ -18,8 +18,7 @@ public class Account {
 
 	public void setBalance(int balance) {
 		this.balance = balance;
-	}
-	public int 
+	} 
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
