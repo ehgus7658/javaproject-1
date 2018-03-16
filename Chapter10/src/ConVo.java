@@ -18,8 +18,6 @@ public class ConVo {
 					count1++;
 				else if (s2 >= 'a' && s2 <= 'z')
 					count2++;
-				else if(s2 >= '1' && s2 <= '9')
-					count3++;
 			}
 		}
 		System.out.println("자음의 개수 :" + count1);
