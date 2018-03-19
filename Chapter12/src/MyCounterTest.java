@@ -1,0 +1,12 @@
+public class MyCounterTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		MyCounter obj1 = new MyCounter();
+		MyCounter obj2 = new MyCounter();
+		System.out.println("°´Ã¼ 1ÀÇ counter = " + obj1.counter);
+		System.out.println("°´Ã¼ ÀÇ counter = " + obj2.counter);
+
+	}
+
+}
